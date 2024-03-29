@@ -2,7 +2,9 @@
 
 recat-bootstrap ---> npm  i  react-bootstrap
 react-slick ---> npm i react-slick
+for icons install the library ==> npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 
+for practice
 
 
 
